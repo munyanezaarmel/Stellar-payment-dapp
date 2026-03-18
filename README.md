@@ -10,13 +10,16 @@ A simple, clean payment dApp built on the **Stellar Testnet** that lets users co
 
 > *(Add screenshots here after running the app)*
 
-| Wallet Connected | Balance Displayed |
+| Home
 |---|---|
-| *(screenshot)* | *(screenshot)* |
+| *<img width="1836" height="919" alt="image" src="https://github.com/user-attachments/assets/bfc41577-6467-481a-9b05-682cf511772d" />
+* 
 
 | Send Payment Form | Transaction Success |
 |---|---|
-| *(screenshot)* | *(screenshot)* |
+| *<img width="1128" height="698" alt="image" src="https://github.com/user-attachments/assets/922ac7e5-1271-4cd4-a8a3-3b77e57311b7" />
+* | *<img width="1128" height="698" alt="image" src="https://github.com/user-attachments/assets/2e0feff4-f1ec-45e2-8ea8-f8b16e47a138" />
+* |
 
 ---
 

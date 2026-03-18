@@ -8,8 +8,6 @@ A simple, clean payment dApp built on the **Stellar Testnet** that lets users co
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after running the app)*
-
 | Home
 |---|---|
 | *<img width="1836" height="919" alt="image" src="https://github.com/user-attachments/assets/bfc41577-6467-481a-9b05-682cf511772d" />
@@ -123,18 +121,6 @@ A browser extension that manages your Stellar keys. It signs transactions withou
 3. Send to Freighter for user signature
 4. Submit signed transaction to Horizon
 5. Receive transaction hash as confirmation
-
----
-
-## 📋 Submission Checklist
-
-- [x] Wallet connect / disconnect
-- [x] Balance fetched and displayed
-- [x] Send XLM transaction on testnet
-- [x] Transaction hash shown on success
-- [x] Error state handling
-- [x] Public GitHub repository
-- [x] README with setup instructions
 
 ---
 
